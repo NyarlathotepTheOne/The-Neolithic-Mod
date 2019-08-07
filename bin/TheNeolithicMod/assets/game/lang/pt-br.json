@@ -1,53 +1,54 @@
 {
 
-  "tabname-neolithicblocks": "Neolithic Blocks",
-  "tabname-neolithicdeco": "Neolithic Decor",
-  "tabname-neolithicfauna": "Neolithic Fauna",
-  "tabname-neolithicflora": "Neolithic Flora",
-  "tabname-neolithicitems": "Neolithic Items",
-  "tabname-neolithictools": "Neolithic Tools",
-  "tabname-neolithicweapons": "Neolithic Weapons",
+  "tabname-neolithicblocks": "Blocos Neolíticos",
+  "tabname-neolithicdeco": "Decoração Neolítica",
+  "tabname-neolithicfauna": "Fauna Neolítica",
+  "tabname-neolithicflora": "Flora Neolítica",
+  "tabname-neolithicitems": "Itens Neolíticos",
+  "tabname-neolithictools": "Ferramentas Neolíticas",
+  "tabname-neolithicweapons": "Armas Neolíticas",
   
-  "craftinginfo-toolmaking-title": "Neolithic Tool Making",
+  "craftinginfo-toolmaking-title": "Fabricação de Ferramentas Neolíticas",
+  "craftinginfo-toolmaking-text": "<strong>Fabricação de Ferramentas</strong><br><br>Passo-a-passo da fabricação de ferramentas neolíticas. Só aqui no Mod Neolítico.<br><br>No mod neolítico, ferramentas de <a href=\"handbook://item-flint0\">pederneira</a> ou pedra (ex.: <a href=\"handbook://item-stone-granite0\">granito</a>) são criadas totalmente fora da grade do inventário. Você vai criá-las passo-a-passo no espaço do bloco da sua frente. Irá precisar de uma cabeça de pederneira de ferramenta/arma, uma haste e material de ligação para anexar a cabeça da ferramenta/arma na haste. Primeiro, crie a cabeça da ferramenta usando a <a href=\"handbook://craftinginfo-knapping\">interface de lapidação</a>.  Se deseja criar uma ferramenta ou arma com uma cabeça que você já fez com antecedência ou achou garimpando, Shift (Sneak) + Right click will allow you to place the flint head and create a workspace. Once the head is made or placed, it will remain on the block where you knapped or placed it, which will become your workspace. Next, you will need to add a shaft, either debarked very thin branch or large bone. Right click the workspace to add the shaft to your knapped flint or stone head.  The last step is to secure the shaft to the tool/weapon head using <a href=\"handbook://neolithicmod:item-sisal-twine\">sisal twine</a>, sinew or leather strips. Right click the workspace to add the binding and complete your tool. The completed tool will stay on the workspace block until you Left click (break) and pick it up.<br><br>Congratulations! You are now a master Tool Maker \\o/<br>",
   "craftinginfo-toolmaking-text": "<strong>toolmaking</strong><br><br>Neolithic Tool Making 101. Only here on The Neolithic Mod.<br><br>In the neolithic mod, hafted <a href=\"handbook://item-flint0\">flint</a> or stone (e.g. <a href=\"handbook://item-stone-granite0\">granite</a>) tools are fully created outside your crafting grid. You will create them step by step on a workspace block in front of you. You will need a flint tool/weapon head, a shaft, and binding material to attach the tool or weapon head to the shaft. The first step is to create the tool head using the <a href=\"handbook://craftinginfo-knapping\">knapping interface</a>.  If you wish to make a tool or weapon using a head that you prepared ahead of time, or you found by panning, Shift (Sneak) + Right click will allow you to place the flint head and create a workspace. Once the head is made or placed, it will remain on the block where you knapped or placed it, which will become your workspace. Next, you will need to add a shaft, either debarked very thin branch or large bone. Right click the workspace to add the shaft to your knapped flint or stone head.  The last step is to secure the shaft to the tool/weapon head using <a href=\"handbook://neolithicmod:item-sisal-twine\">sisal twine</a>, sinew or leather strips. Right click the workspace to add the binding and complete your tool. The completed tool will stay on the workspace block until you Left click (break) and pick it up.<br><br>Congratulations! You are now a master Tool Maker \\o/<br>",
   
-  "handbook-collectible-sources": "Sources",  
+  "handbook-collectible-sources": "Fontes",  
   "handbook-burdenbasket-obtain": "Place a Very-thin barked branch down, right click with sisal twine, right click again with 4 of the same very thin bark branch to make the structure. Now right click with a large sisal rug to make the Burdenbasket.",
   "Place a Very-thin barked branch down, right click with leather strips, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 hides to make the Backpack.": "Place a Very-thin barked branch down, right click with leather strips, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 hides to make the Backpack.",
   "Place a Very-thin barked branch down, right click with reeds, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 reeds to make the Basket.": "Place a Very-thin barked branch down, right click with reeds, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 reeds to make the Basket.",
   
-  "handbook-item-sources": "Sources",
+  "handbook-item-sources": "Fontes",
   "Place a Very-thin barked branch down, right click with leather strips, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 hides to make the Backpack.": "Place a Very-thin barked branch down, right click with leather strips, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 hides to make the Backpack.",
   "Place a Very-thin barked branch down, right click with reeds, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 reeds to make the Basket.": "Place a Very-thin barked branch down, right click with reeds, right click again with 4 of the same very thin bark branch to make the structure. Now right click with 4 reeds to make the Basket.",
   "Place a Very-thin barked branch down, right click with sisal twine, right click again with 4 of the same very thin bark branch to make the structure. Now right click with a large sisal rug to make the Burdenbasket.": "Place a Very-thin barked branch down, right click with sisal twine, right click again with 4 of the same very thin bark branch to make the structure. Now right click with a large sisal rug to make the Burdenbasket.",
   
   
-  "item-shingle-raw-red": "Raw red clay shingle",
-  "item-shingle-burned-red": "Burned red clay shingle",
-  "item-shingle-raw-brown": "Raw brown clay shingle",
-  "item-shingle-burned-brown": "Burned brown clay shingle",
+  "item-shingle-raw-red": "Telha crua de argila vermelha",
+  "item-shingle-burned-red": "Telha queimada de argila vermelha",
+  "item-shingle-raw-brown": "Telha crua de argila marrom",
+  "item-shingle-burned-brown": "Telha queimada de argila marrom",
   
-  "block-rawclay-red-none": "Red clay in soil (Barren)",
-  "block-rawclay-brown-none": "Brown clay in soil (Barren)",
-  "block-rawclay-red-verysparse": "Red clay in soil (Sparse grass)",
-  "block-rawclay-brown-verysparse": "Brown clay in soil (Sparse grass)",
+  "block-rawclay-red-none": "Argila vermelha no solo (Árido)",
+  "block-rawclay-brown-none": "Argila marrom no solo (Árido)",
+  "block-rawclay-red-verysparse": "Argila vermelha no solo (Grama esparsa)",
+  "block-rawclay-brown-verysparse": "Argila marrom no solo (Grama esparsa)",
   
-  "item-arrow-fire*": "Fire Arrow crafted from any any arrow, fat and a torch",
-  "itemdesc-arrow-fire*": "Adds +2 damage. Future recipe should include adding linen or other fiber. Could include pitch if liquids like that are added.",
+  "item-arrow-fire*": "Flecha de Fogo criada a partir de qualquer flecha, gordura e uma tocha",
+  "itemdesc-arrow-fire*": "Adiciona +2 de dano. Receita futura deve poder adicionar linho ou outra fibra. Pode incluir piche se líquidos desse tipo forem adicionados.",
   
-  "item-arrow-poison*": "Poisoned Arrow crafted from any arrow and mushroom",
-  "itemdesc-arrow-poison*": "Adds +2 damage. Future recipe should include cooking with a herb to get poison.",
+  "item-arrow-poison*": "Flecha Envenenada criada de qualquer flecha e cogumelo",
+  "itemdesc-arrow-poison*": "Adiciona +2 de dano. Receita futura deve poder cozinhar com ervas para impregnar o veneno.",
   
-  "item-bow-simple": "Simple Bow",
-  "itemdesc-bow-simple": "Flimsy stick with some weak string.  Make a strong bowstring using animal sinew and carve a better limb.",
+  "item-bow-simple": "Arco Simples",
+  "itemdesc-bow-simple": "Vareta frágil com uma corda fraca.  Faça uma corda forte usando um tendão animal e esculpa um corpo de arco melhor.",
   
-  "item-bow-carved": "Carved Bow",
-  "itemdesc-bow-carved": "A little better than a flimsy stick.  Made by combining a carved limb with a bowstring. Replace bowstring before it breaks and destroys the bow.",
+  "item-bow-carved": "Arco Entalhado",
+  "itemdesc-bow-carved": "Um pouco melhor que uma vareta frágil.  Feito combinando um corpo esculpido com uma corda de arco. Substituia a corda antes que quebre e destrua o arco.",
   
-  "item-bow-composite": "Composite Bow",
+  "item-bow-composite": "Arco Composto",
   "itemdesc-bow-composite": "A decent bow made by gluing layers of horn and sinew onto a carved bow limb. Replace bowstring before it breaks and destroys the bow.",
   
-  "item-bow-recurve": "Recurve Bow",
+  "item-bow-recurve": "Arco Recurvo",
   "itemdesc-bow-recurve": "Advanced bow made by adding hide and more horn and sinew to composite limb. Replace bowstring before it breaks and destroys the bow. ",
   
   "item-cookedgiantreedsroot": "Cooked Giant Reeds Root",
